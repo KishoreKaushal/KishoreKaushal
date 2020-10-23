@@ -1,7 +1,7 @@
-### Hi there 👋
-
 <!--
 **KishoreKaushal/KishoreKaushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -18,6 +18,19 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Kaushal Kishore</h1>
 <h3 align="center">A passionate Computer Engineer from India.</h3>
+
+- 👨‍💻 I'm currently employed as Edison Engineer @ GE Healthcare, Banglore.
+- 👨‍🎓 I graduated from Indian Institute of Technology Palakkad in year 2020 (the COVID year) with bachelor's degree in Computer Science & Engineering.
+
+- 🔭 I’m currently working on building Linux From Scratch following LFS Book.
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate on research topics in Machine Learning & AI.
+
+- 💬 Ask me about anything.
+- 📫 How to reach me: kshr4kshl@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Being vegetarian for past one year and contributing less than before to global warming.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorekaushal&label=Profile%20views&color=0e75b6&style=flat" alt="kishorekaushal" /> </p>
 
@@ -41,18 +54,20 @@ Here are some ideas to get you started:
 
 [![Kaushal's github stats](https://github-readme-stats.vercel.app/api?username=KishoreKaushal&show_icons=true&theme=dark)](https://github.com/KishoreKaushal)
 
-## Top Repositories
+## Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=AnomalyDetection&theme=dark)](https://github.com/KishoreKaushal/AnomalyDetection)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=ScanIN&theme=dark)](https://github.com/KishoreKaushal/ScanIN)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=HOD&theme=dark)](https://github.com/KishoreKaushal/HOD)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=DerivativeDynamicTimeWarping&theme=dark)](https://github.com/KishoreKaushal/DerivativeDynamicTimeWarping)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=ailab&theme=dark)](https://github.com/KishoreKaushal/ailab)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=parallel-programming&theme=dark)](https://github.com/KishoreKaushal/parallel-programming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=train_ticket_system&theme=dark)](https://github.com/KishoreKaushal/train_ticket_system)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=111601008-compiler-lab&theme=dark)](https://github.com/KishoreKaushal/111601008-compiler-lab)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=HOD&theme=dark)](https://github.com/KishoreKaushal/HOD)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=parallel-programming&theme=dark)](https://github.com/KishoreKaushal/parallel-programming)
