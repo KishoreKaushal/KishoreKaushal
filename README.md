@@ -42,21 +42,20 @@ Here are some ideas to get you started:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=AnomalyDetection&theme=dark)](https://github.com/KishoreKaushal/AnomalyDetection)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=ScanIN)](https://github.com/KishoreKaushal/ScanIN)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=ScanIN&theme=dark)](https://github.com/KishoreKaushal/ScanIN)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=HOD)](https://github.com/KishoreKaushal/HOD)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=HOD&theme=dark)](https://github.com/KishoreKaushal/HOD)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=DerivativeDynamicTimeWarping)](https://github.com/KishoreKaushal/DerivativeDynamicTimeWarping)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=DerivativeDynamicTimeWarping&theme=dark)](https://github.com/KishoreKaushal/DerivativeDynamicTimeWarping)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=ailab)](https://github.com/KishoreKaushal/ailab)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=ailab&theme=dark)](https://github.com/KishoreKaushal/ailab)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=parallel-programming)](https://github.com/KishoreKaushal/parallel-programming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=parallel-programming&theme=dark)](https://github.com/KishoreKaushal/parallel-programming)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=111601008-compiler-lab)](https://github.com/KishoreKaushal/111601008-compiler-lab)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=111601008-compiler-lab&theme=dark)](https://github.com/KishoreKaushal/111601008-compiler-lab)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreKaushal&langs_count=10&theme=dark)](https://github.com/KishoreKaushal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreKaushal&langs_count=10&theme=dark&layout=compact)](https://github.com/KishoreKaushal)
 
 [![Kaushal's github stats](https://github-readme-stats.vercel.app/api?username=KishoreKaushal&show_icons=true&theme=dark)](https://github.com/KishoreKaushal)
 
