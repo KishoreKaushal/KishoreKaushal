@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 👨‍💻 I'm currently employed as Edison Engineer @ GE Healthcare, Banglore.
 - 👨‍🎓 I graduated from Indian Institute of Technology Palakkad in year 2020 (the COVID year) with bachelor's degree in Computer Science & Engineering.
 
-- 🔭 I’m currently working on building Linux From Scratch following LFS Book.
-- 🌱 I’m currently learning everything.
+- 🔭 I’m currently working on building games using Godot Engine.
+- 🌱 I’m currently learning game development in Godot Engine.
 - 👯 I’m looking to collaborate on research topics in Machine Learning & AI.
 
 - 💬 Ask me about anything.
