@@ -71,6 +71,10 @@ Here are some ideas to get you started:
 
 ## Repositories
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=my-first-action-rpg-game&theme=dark)](https://github.com/KishoreKaushal/my-first-action-rpg-game)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=my-first-game-in-godot&theme=dark)](https://github.com/KishoreKaushal/my-first-game-in-godot)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=AnomalyDetection&theme=dark)](https://github.com/KishoreKaushal/AnomalyDetection)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=ScanIN&theme=dark)](https://github.com/KishoreKaushal/ScanIN)
@@ -80,9 +84,3 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=ailab&theme=dark)](https://github.com/KishoreKaushal/ailab)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=train_ticket_system&theme=dark)](https://github.com/KishoreKaushal/train_ticket_system)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=111601008-compiler-lab&theme=dark)](https://github.com/KishoreKaushal/111601008-compiler-lab)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=HOD&theme=dark)](https://github.com/KishoreKaushal/HOD)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KishoreKaushal&repo=parallel-programming&theme=dark)](https://github.com/KishoreKaushal/parallel-programming)
