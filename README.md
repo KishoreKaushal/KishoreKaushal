@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 <!--
 **KishoreKaushal/KishoreKaushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +25,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kaushal Kishore</h1>
 <h3 align="center">A passionate Computer Engineer from India (🇮🇳) </h3>
 
-- 👨‍💻 I'm currently work in a AI research team at GE Healthcare. 
+- 👨‍💻 I currently work in a AI research team at GE Healthcare. 
 - 💼 My daily job includes research, development and implementation of AI based business solutions. 
 
 - 🌿 I'm a vegetarian.
@@ -30,8 +35,7 @@ Here are some ideas to get you started:
 - 👯 I always looking to collaborate on research topics in Machine Learning & AI.
 
 - 💬 Ask me about anything.
-- 📫 How to reach me: kshr4kshl@gmail.com
-
+- 📫 Rech me at: <a href="kshr4kshl@gmail.com">kshr4kshl@gmail.com</a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorekaushal&label=Profile%20views&color=0e75b6&style=flat" alt="kishorekaushal" /> </p>
@@ -45,7 +49,6 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
 
 
 <p align="left">
