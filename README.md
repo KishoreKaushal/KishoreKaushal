@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kaushal Kishore</h1>
 <h3 align="center">A passionate Computer Engineer from India (🇮🇳) </h3>
 
-- 👨‍💻 I currently work in a AI research team at GE Healthcare. 
-- 💼 My daily job includes research, development and implementation of AI based business solutions. 
-
-- 🌿 I'm a vegetarian.
+- 👨‍💻 I am currently working in Adobe Illustrator team as ML Engineer. 
 
 - 👨‍🎓 I graduated from Indian Institute of Technology Palakkad in year 2020 (the COVID year) with bachelor's degree in Computer Science & Engineering.
 
